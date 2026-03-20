@@ -33,22 +33,20 @@
     // ─ Тайминг (мс) ────────────────────────────────────────────────
     // Общая схема:
     //   0               → overlay появляется
-    //   STRAW_START     → соломка появляется
     //   SALT_START      → соль начинает сыпаться
     //   TEXT_GLOW       → текст начинает проявляться (blur reveal)
     //   TEXT_SOLID      → текст проясняется и становится чётким
-    //   TEXT_SOLID + HOLD → финальное удержание
+    //   TEXT_SOLID + HOLD → финальное удержание — люди читают название
     //   → fade out → complete
 
-    STRAW_START:   520,
-    SALT_START:    920,
-    TEXT_GLOW:    2300,
-    TEXT_SOLID:   3500,
-    HOLD:          950,   // удержание финального состояния
-    FADE_OUT:      680,   // длительность fade-out в конце
+    SALT_START:    500,   // соль начинает сыпаться сразу
+    TEXT_GLOW:    2800,   // текст начинает появляться через 2.8с
+    TEXT_SOLID:   4600,   // текст полностью чёткий на 4.6с
+    HOLD:         3200,   // 3.2с держим название — можно прочитать и запомнить
+    FADE_OUT:      900,   // плавный уход
 
     // Когда кнопка "Пропустить" становится активной
-    SKIP_READY:   1500,
+    SKIP_READY:   1800,
 
     // ─ Частицы ─────────────────────────────────────────────────────
     // Уменьши для слабых устройств, увеличь для более плотного снегопада
@@ -100,63 +98,6 @@
   let _skipReady  = false;
   let _isMobile   = false;
 
-  // ─── SVG соломки ──────────────────────────────────────────────────
-  //
-  // Тонкая натуральная соломина — слегка искривлённая, с просветом.
-  // Градиент создаёт круглое сечение: тёмные края, яркий центр.
-  // filter с feGaussianBlur добавляет органическую мягкость.
-  //
-
-  const STRAW_SVG = /* html */`
-<svg class="bh-intro__straw-svg"
-     viewBox="0 0 48 220"
-     xmlns="http://www.w3.org/2000/svg"
-     aria-hidden="true">
-  <defs>
-    <!-- Основной градиент сечения соломки (тёмный→светлый→тёмный) -->
-    <linearGradient id="bh-sg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="rgba(148,118,60,0.08)"/>
-      <stop offset="22%"  stop-color="rgba(215,182,110,0.55)"/>
-      <stop offset="50%"  stop-color="rgba(248,225,162,0.76)"/>
-      <stop offset="78%"  stop-color="rgba(222,190,118,0.52)"/>
-      <stop offset="100%" stop-color="rgba(145,110,52,0.07)"/>
-    </linearGradient>
-    <!-- Блик — внутренний просвет -->
-    <linearGradient id="bh-sh" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="rgba(255,248,222,0.00)"/>
-      <stop offset="42%"  stop-color="rgba(255,252,232,0.42)"/>
-      <stop offset="100%" stop-color="rgba(255,248,222,0.00)"/>
-    </linearGradient>
-    <!-- Мягкое свечение вокруг соломки -->
-    <filter id="bh-sf" x="-60%" y="-5%" width="220%" height="110%">
-      <feGaussianBlur stdDeviation="0.9" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Основное тело — лёгкий изгиб для органичности -->
-  <path d="M 19 2 C 20 55 21 115 22 170 C 22.5 192 23 208 23.5 218"
-        stroke="url(#bh-sg)"
-        stroke-width="4.5"
-        fill="none"
-        stroke-linecap="round"
-        filter="url(#bh-sf)"/>
-
-  <!-- Внутренний блик -->
-  <path d="M 20.5 2 C 21.5 55 22.5 115 23.5 170 C 24 192 24.5 208 25 218"
-        stroke="url(#bh-sh)"
-        stroke-width="1.5"
-        fill="none"
-        stroke-linecap="round"/>
-
-  <!-- Ободок на конце — отверстие из которого сыпется соль -->
-  <ellipse cx="23" cy="218" rx="3.8" ry="1.4"
-           fill="rgba(200,165,92,0.48)"
-           filter="url(#bh-sf)"/>
-</svg>`;
 
   // ─── Создание DOM-структуры оверлея ───────────────────────────────
 
@@ -171,12 +112,6 @@
     _canvas = document.createElement('canvas');
     _canvas.id = 'bh-intro-canvas';
     _canvas.setAttribute('aria-hidden', 'true');
-
-    // Соломка
-    const straw = document.createElement('div');
-    straw.className = 'bh-intro__straw';
-    straw.setAttribute('aria-hidden', 'true');
-    straw.innerHTML = STRAW_SVG;
 
     // Обёртка текста
     _textWrap = document.createElement('div');
@@ -205,7 +140,6 @@
     skip.addEventListener('click', onSkipClick);
 
     _overlay.appendChild(_canvas);
-    _overlay.appendChild(straw);
     _overlay.appendChild(_textWrap);
     _overlay.appendChild(skip);
 
@@ -224,12 +158,14 @@
     _canvas.height = window.innerHeight;
   }
 
-  // ─── Точка эмиссии частиц (кончик соломки) ────────────────────────
+  // ─── Точка эмиссии частиц ─────────────────────────────────────────
+  // Без соломки соль сыпется по всей ширине сверху —
+  // как из невидимого рассеивателя над сценой.
 
   function emitOrigin() {
     return {
-      x: Math.round(_canvas.width  * 0.50),
-      y: Math.round(_canvas.height * 0.155),
+      x: rand(_canvas.width * 0.08, _canvas.width * 0.92), // случайная X по ширине
+      y: rand(-8, 6),  // чуть выше верхнего края — появляются из ниоткуда
     };
   }
 
@@ -244,10 +180,10 @@
 
   function makeParticle(origin) {
     return {
-      x:  origin.x + rand(-13, 13),
-      y:  origin.y + rand(0, 7),
-      vx: rand(-1.05, 1.05),
-      vy: rand(0.65, 2.1),
+      x:  origin.x,
+      y:  origin.y,
+      vx: rand(-0.7, 0.7),
+      vy: rand(0.5, 1.8),
 
       // Размер: 1.3..3.9px desktop, 1.2..3.2px mobile
       size: _isMobile ? rand(1.2, 3.2) : rand(1.3, 3.9),
@@ -272,13 +208,13 @@
   // ─── Инициализация пула частиц ────────────────────────────────────
 
   function initParticles() {
-    const count  = _isMobile ? CFG.PARTICLES_MOBILE : CFG.PARTICLES_DESKTOP;
-    const origin = emitOrigin();
+    const count = _isMobile ? CFG.PARTICLES_MOBILE : CFG.PARTICLES_DESKTOP;
 
     _particles = Array.from({ length: count }, (_, i) => {
-      const p = makeParticle(origin);
-      // Равномерное распределение задержек — соль начинает сыпаться постепенно
-      p.delay = (i / count) * 1900;
+      // Каждая частица стартует из своей случайной точки по ширине
+      const p = makeParticle(emitOrigin());
+      // Задержки распределены по 2.5с — соль нарастает постепенно
+      p.delay = (i / count) * 2500;
       return p;
     });
   }
@@ -297,7 +233,6 @@
   // ─── Обновление частиц ────────────────────────────────────────────
 
   function updateParticles(elapsed) {
-    const origin     = emitOrigin();
     const saltActive = elapsed >= CFG.SALT_START;
     const t          = elapsed / 1000;  // секунды
     const textY      = _canvas.height * CFG.TEXT_Y_FRAC;
@@ -310,10 +245,10 @@
         if (saltActive && (elapsed - CFG.SALT_START) >= p.delay) {
           p.active = true;
           // Сброс координат к кончику соломки
-          p.x  = origin.x + rand(-14, 14);
-          p.y  = origin.y + rand(0, 8);
-          p.vy = rand(0.65, 2.1);
-          p.vx = rand(-0.95, 0.95);
+          p.x  = rand(_canvas.width * 0.05, _canvas.width * 0.95);
+          p.y  = rand(-8, 6);
+          p.vy = rand(0.5, 1.8);
+          p.vx = rand(-0.7, 0.7);
           p.opacity = 0;
         }
         continue;
@@ -344,19 +279,19 @@
       p.angle += p.angV;
 
       // ── Рециклинг ──────────────────────────────────────────────
-      // Вышла за экран — вернуть к соломке
+      // Вышла за экран — выпустить заново из случайной точки сверху
       if (
         p.y > _canvas.height + 14 ||
         p.x < -22 ||
         p.x > _canvas.width + 22
       ) {
         if (!_finished) {
-          p.x  = origin.x + rand(-14, 14);
-          p.y  = origin.y;
-          p.vy = rand(0.65, 2.0);
-          p.vx = rand(-0.9, 0.9);
+          p.x  = rand(_canvas.width * 0.05, _canvas.width * 0.95);
+          p.y  = rand(-8, 4);
+          p.vy = rand(0.5, 1.8);
+          p.vx = rand(-0.7, 0.7);
           p.opacity = 0;
-          p.delay   = rand(0, 380);
+          p.delay   = rand(0, 350);
           p.active  = false;
         } else {
           p.active  = false;
