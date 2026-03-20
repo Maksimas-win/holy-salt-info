@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maksimas-win.github.io/holy-salt-info/sitemap.xml

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/lt/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://maksimas-win.github.io/holy-salt-info/de/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maksimas-win.github.io/holy-salt-info/ru/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://maksimas-win.github.io/holy-salt-info/lt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksimas-win.github.io/holy-salt-info/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksimas-win.github.io/holy-salt-info/pl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://maksimas-win.github.io/holy-salt-info/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksimas-win.github.io/holy-salt-info/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
