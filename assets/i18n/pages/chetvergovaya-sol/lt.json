@@ -1,0 +1,250 @@
+{
+  "locale": "lt",
+  "meta": {
+    "title": "Druskos pašventinimas Didįjį ketvirtadienį (ketvirtadienio druska)",
+    "description": "Druskos pašventinimas Didįjį ketvirtadienį (ketvirtadienio druska). Teologinis liaudiško papročio apmąstymas, susijęs su Didžiuoju ketvirtadieniu, druska, Šventuoju Raštu ir Bažnyčios tradicija.",
+    "og_locale": "lt_LT",
+    "site_name": "Parapijos biuletenis",
+    "og_description": "Teologinis liaudiško papročio apmąstymas: ką reiškia ketvirtadienio druska, kaip į ją žvelgti ir kokią vietą ji užima greta svarbiausių Didžiojo ketvirtadienio prasmių.",
+    "twitter_description": "Teologinis liaudiško papročio apmąstymas, susijęs su ketvirtadienio druska, Šventuoju Raštu ir Bažnyčios tradicija."
+  },
+  "switcher": {
+    "label": "Kalba",
+    "aria_label": "Kalbos pasirinkimas"
+  },
+  "header": {
+    "ornament": "✦ ✦ ✦",
+    "title_html": "Druskos pašventinimas Didįjį ketvirtadienį<br><em>(ketvirtadienio druska)</em>",
+    "subtitle": "Teologinis liaudiško papročio apmąstymas"
+  },
+  "intro": "Kodėl per Didįjį ketvirtadienį žmonės atsineša druskos? Kas slypi už šio papročio — Bažnyčios nustatymas ar gyva liaudies atmintis? Ir kaip į tai derėtų žvelgti?",
+  "toc": {
+    "title": "Turinys",
+    "aria_label": "Turinys"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "number": "I",
+      "toc": "Kas slypi už šio papročio",
+      "title": "Kas slypi už šio papročio",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Paprotys Didįjį ketvirtadienį šventinti druską nėra tipikone nustatytas liturginis čin. Jis nėra įtvirtintas privalomų bažnytinių apeigų rate ir pirmiausia susijęs su liaudišku pasirengimu Velykoms. Istorikai jo atsiradimą sieja su XII–XIII amžiais."
+        },
+        {
+          "type": "p",
+          "html": "Jau XVI amžiuje jis buvo taip paplitęs, kad 1551 metų Stoglavo Susirinkimas jį mini ir perspėja dėl iškraipymų — ypač dėl papročio dėti druską po altoriumi. Tai iškalbinga: tradicija egzistavo, bet reikalavo teologinio apmąstymo."
+        },
+        {
+          "type": "p",
+          "html": "Druska, apie kurią čia kalbama, paprastai būdavo ruošiama ypatingu būdu — kaitinama krosnyje, todėl patamsėdavo ir įgaudavo kitokį skonį bei kvapą. Tačiau svarbu atminti: nei paruošimo būdas, nei išvaizda neturi lemiamos dvasinės reikšmės. Atsigręžkime į tikrąjį teologinį šios tradicijos supratimą."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": "II",
+      "toc": "Druska Šventajame Rašte",
+      "title": "Druska Šventajame Rašte: sandoros, išminties ir netrūnijimo ženklas",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Šventajame Rašte druska užima ypatingą vietą. Tai nėra atsitiktinis buities daiktas, parinktas apeigai. Tai gilus ir nuoseklus biblinis simbolis."
+        },
+        {
+          "type": "sub",
+          "text": "Druskos sandora"
+        },
+        {
+          "type": "p",
+          "html": "Senajame Testamente druska buvo nesugriaunamos sandoros tarp Dievo ir Izraelio ženklas: <cite>„Kiekvieną duonos atnašą sūdyk druska ir neleisk, kad tavo atnašai trūktų tavo Dievo sandoros druskos“</cite> (Kun. 2:13). Čia druska yra ištikimybės, pastovumo ir santykio su Dievu išsaugojimo ženklas."
+        },
+        {
+          "type": "p",
+          "html": "Skaičių knyga Aarono kunigystę vadina <cite>„druskos sandora“</cite> (Sk. 18:19); Antroji Metraščių knyga kalba apie amžiną Viešpaties sąjungą su Dovydo namais kaip apie <cite>„druskos sandorą“</cite> (2 Metr. 13:5). Druska tampa netrūnijimo, nekintamumo ir ištikimybės duotam žodžiui paveikslu."
+        },
+        {
+          "type": "sub",
+          "text": "„Jūs — žemės druska“"
+        },
+        {
+          "type": "p",
+          "html": "Kalno pamoksle Viešpats Jėzus Kristus kreipiasi į mokinius: <cite>„Jūs esate žemės druska. O jei druska netektų sūrumo, kuo ją reikėtų pasūdyti? Ji jau niekam nebetinka“</cite> (Mt. 5:13). Tai vienas talpiausių evangelinių krikščioniško pašaukimo apibrėžimų. Būti druska reiškia saugoti pasaulį nuo moralinio gedimo, teikti gyvenimui prasmę ir skonį, priešintis dvasiniam apmirimui."
+        },
+        {
+          "type": "p",
+          "html": "Apaštalas Paulius tęsia šį vaizdinį: <cite>„Jūsų kalba visuomet tebūna maloni, druska pasūdyta, kad mokėtumėte kiekvienam atsakyti“</cite> (Kol. 4:6). Druska čia yra malonės išminties, gaivinančios kiekvieną žodį, ženklas."
+        },
+        {
+          "type": "sub",
+          "text": "Jericho vandenų išgydymas"
+        },
+        {
+          "type": "p",
+          "html": "Į šį Senojo Testamento įvykį tiesiogiai remiasi Maldyno malda druskos palaiminimui. Jericho gyventojai pranašui Eliziejui pasakė: <cite>„Vanduo blogas ir žemė nederlinga“</cite> (4 Kar. 2:19). Pranašas liepė atnešti naują dubenį su druska, ją įmetė į šaltinį ir ištarė Viešpaties žodį — ir vandenys buvo išgydyti."
+        },
+        {
+          "type": "p",
+          "html": "Svarbu: stebuklą padarė ne pati druska, bet per pranašą ištartas Dievo žodis. Druska tapo regimu neregimo dieviško veikimo įrankiu. Šis teologinis skirtumas yra esminis — būtent jis glūdi ortodoksiniame bet kokio pašventinimo supratime."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "number": "III",
+      "toc": "Druska ankstyvosios krikščionybės praktikoje ir šventųjų tėvų tradicijoje",
+      "title": "Druska ankstyvosios krikščionybės praktikoje ir šventųjų tėvų tradicijoje",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Druskos simbolika Bažnyčioje buvo gerai žinoma ir plėtojama nuo seniausių laikų. Senosios Bažnyčios praktikoje besirengiantiems Krikštui buvo įteikiama druska kaip ženklas, kad jie priimami į katechumenų tarpą."
+        },
+        {
+          "type": "quote",
+          "html": "„Pašventinimas druska reiškia dvasinio pažinimo būtinybę — kaip druska suteikia maistui aštrumą ir skonį, taip Dievo Žodžio apšviestas protas suteikia gyvenimui prasmę ir saugo jį nuo gedimo.“",
+          "author": "Šv. Augustinas"
+        },
+        {
+          "type": "quote",
+          "html": "„Žiūrėk, kaip Jis išaukština jų orumą, vadindamas juos ne druskos gavėjais, bet pačia druska. Ir ką tai reiškia? Tai, kad jūsų mokymas turi išsaugoti žmones, numarinti juose nuodėmės puvinį... Kaip druska neleidžia mėsai gesti, taip ir jūs turite sulaikyti žmones nuo ydos gedimo. Druska degina, bet ji gelbsti.“",
+          "author": "Šv. Jonas Auksaburnis. Homilijos apie Kalno pamokslą"
+        },
+        {
+          "type": "quote",
+          "html": "„Druska yra netrūnijimo ir išminties paveikslas. Kaip druska pabarstytas kūnas nepūva, taip ir siela, papuošta Dievo Žodžio išmintimi, nepasiduoda nuodėmės gedimui.“",
+          "author": "Šv. Bazilijus Didysis"
+        },
+        {
+          "type": "p",
+          "html": "Šv. Kirilas Aleksandrietis druskoje regi Šventosios Dvasios paveikslą, kuri saugo Bažnyčią tyrume ir netrūnijime, kaip druska saugo daikto prigimtį nuo suirimo. Tai įveda druską į pneumatologinį kontekstą: pašventinimas visada yra Dvasios veikimas, o ne medžiagos magija."
+        },
+        {
+          "type": "quote",
+          "html": "„Atsigręžusi atgal ji tapo nejudria druska. Tai pamoka visiems: kas žvalgosi atgal, tas neįeis į Dievo Karalystę.“",
+          "author": "Šv. Efremas Sirietis"
+        },
+        {
+          "type": "p",
+          "html": "Šventasis teisusis Jonas Kronštadtiškis jau naujaisiais laikais kalbėjo apie pašventintų daiktų reikšmę būtent jų maldiniame kontekste: <cite>„Visa, ką Bažnyčia pašventina, yra žinia apie Dievą, širdžiai skirtas priminimas apie Tą, kuris aukščiau už bet kokią medžiagą.“</cite>"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "number": "IV",
+      "toc": "Teologinė pašventinimo prasmė: Maldyno malda",
+      "title": "Teologinė pašventinimo prasmė: Maldyno malda",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Stačiatikių Maldyne yra trumpa malda druskos palaiminimui. Ji nėra susieta vien su Didžiuoju ketvirtadieniu ir nenustato atskiro „ketvirtadienio druskos čino“ — tokio čino nėra. Tačiau ji svarbi kaip ortodoksinio pašventinimo apskritai supratimo išraiška."
+        },
+        {
+          "type": "p",
+          "html": "Bažnyčia prašo, kad druska taptų <cite>„džiaugsmo auka“</cite>, tai yra būtų Dievo priimta kaip žmogaus atnaša ir atneštų dvasinės naudos tiems, kurie ją naudos. Čia pašventinimas suprantamas ne kaip medžiagos apdovanojimas savarankiška „šventa galia“, bet kaip jos paskyrimas Dievui ir malonės šaukimas tiems, kurie ją priims."
+        },
+        {
+          "type": "p",
+          "html": "Tai esminis teologinis skirtumas: pašventintas daiktas neveikia pats iš savęs — jis egzistuoja <em>santykyje su Dievu</em>, kaip dovana, į Jį atgręžta ir iš Jo sugrįžtanti su palaiminimu. Todėl pašventinta druska gali būti vartojama su malda ir pagarba — kaip priminimas apie Dievą, kaip tylus Jo buvimo kasdienybėje ženklas. Tačiau ne kaip amuletas. Ne kaip vaistas savaime. Ir juo labiau ne kaip Sakramentų pakaitalas."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "number": "V",
+      "toc": "Vidinė saiko laikysena: tėvų balsas",
+      "title": "Vidinė saiko laikysena: tėvų balsas",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Šventieji tėvai vieningai moko išlaikyti dvasinį saiką visų išorinių pamaldumo formų atžvilgiu."
+        },
+        {
+          "type": "quote",
+          "html": "„Mus apvalo ne daiktas, bet nusiteikimas ir gyvenimas.“",
+          "author": "Šv. Jonas Auksaburnis"
+        },
+        {
+          "type": "quote",
+          "html": "„Tikrasis pašventinimas yra malonės veikimas širdyje. Šventoji Dvasia yra vienintelis tikras žmogaus pašventinimas.“",
+          "author": "Šv. Makarijus Egiptietis"
+        },
+        {
+          "type": "quote",
+          "html": "„Daugelis ieško pašventinimo daiktuose, nes jų viduje tuščia. Tačiau Viešpats ieško ne rankų su druska, o širdies, kurioje nėra kartėlio.“",
+          "author": "Šv. Jonas Laiptininkas"
+        },
+        {
+          "type": "quote",
+          "html": "„Krikščioniško gyvenimo tikslas yra Šventosios Dievo Dvasios įgijimas.“",
+          "author": "Šv. Serafimas Sarovietis"
+        },
+        {
+          "type": "p",
+          "html": "Šie žodžiai neatmeta tradicijos. Jie pastato ją į teisingą vietą — tarnaujančią, pagalbinę, vedančią į tai, kas didesnė."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "number": "VI",
+      "toc": "Didysis ketvirtadienis savo pilnatvėje",
+      "title": "Didysis ketvirtadienis savo pilnatvėje",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Negalima kalbėti apie ketvirtadienio druską nepasakius svarbiausio apie pačią dieną."
+        },
+        {
+          "type": "p",
+          "html": "Didysis ketvirtadienis yra Paskutinės vakarienės diena. Diena, kai Viešpats Jėzus Kristus, <cite>„mylėdamas savuosius, buvusius pasaulyje, iki galo juos pamilo“</cite> (Jn 13:1), laužė duoną ir padavė taurę: <cite>„Tai yra mano Kūnas... tai yra mano Kraujas“</cite> (Mt 26:26–28). Tą dieną buvo įsteigta Eucharistija — viso Bažnyčios gyvenimo šaltinis ir viršūnė, krikščioniškojo buvimo centras."
+        },
+        {
+          "type": "p",
+          "html": "Tą pačią dieną Viešpats nuplovė mokiniams kojas, parodydamas nuolankios tarnystės paveikslą, kuris nuo tol glūdi kiekvienos tikros ganytojiškos ir broliškos laikysenos pagrinde: <cite>„Aš jums daviau pavyzdį, kad ir jūs darytumėte, kaip aš jums dariau“</cite> (Jn 13:15)."
+        },
+        {
+          "type": "p",
+          "html": "Pagal tradiciją, Didįjį ketvirtadienį katedrose būdavo šventinama mira — regimas neregimos Šventosios Dvasios dovanos ženklas, teikiamos Sutvirtinimo slėpinyje."
+        },
+        {
+          "type": "p",
+          "html": "Visa tai yra nepalyginamai daugiau nei bet kuris liaudiškas paprotys. Jei ketvirtadienio druskos tradicija atveda žmogų į bažnyčią, į maldą, prie Taurės, ji yra graži ir verta pagarbos. Tačiau jei druska tampa savitiksliu dalyku, pakeičiančiu dalyvavimą slėpiniuose, tai jau dvasinė klastotė, nuo kurios ir perspėja Bažnyčia."
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "number": "VII",
+      "toc": "Kvietimas: tapti žemės druska",
+      "title": "Kvietimas: tapti žemės druska",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Tegul ši sena tradicija, nešanti savyje tiek biblinio vaizdingumo ir liaudies atminties apie šventumą, tampa ne sustojimu, o žingsniu."
+        },
+        {
+          "type": "p",
+          "html": "Žingsniu į šventyklą. Žingsniu į maldą. Žingsniu prie Taurės."
+        },
+        {
+          "type": "p",
+          "html": "Ir pasistenkime tapti ta <cite>„žemės druska“</cite>, apie kurią kalba Viešpats, — ne išoriškai apeigine, bet vidujai tikra: išsaugančia savyje tikėjimą, nesugedusį nuo nuodėmės; išmintį, pagardintą Dievo Žodžiu; ir meilę, kuri neleidžia pasauliui aplink mus prarasti skonio."
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "aria_label": "Užbaiga",
+    "symbol": "☩",
+    "lead": "Ateikime į šventyklą. Melskimės. Priimkime šventąją Komuniją.",
+    "text": "Ir neškime druską — ne tik rankose, bet ir širdyje.",
+    "final_html": "Viešpaties Velykos — štai mūsų džiaugsmas.<br>Ir kiekviena tradicija šventa tiek, kiek ji veda mus pas Jį."
+  },
+  "footer": {
+    "name": "Parapijos biuletenis",
+    "context": "Didysis ketvirtadienis"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "locale": "pl",
+  "meta": {
+    "title": "Poświęcenie soli w Wielki Czwartek (sól czwartkowa)",
+    "description": "Poświęcenie soli w Wielki Czwartek (sól czwartkowa). Teologiczne namyślenie nad zwyczajem ludowym związanym z Wielkim Czwartkiem, solą, Pismem Świętym i Tradycją Kościoła.",
+    "og_locale": "pl_PL",
+    "site_name": "Biuletyn parafialny",
+    "og_description": "Teologiczne namyślenie nad zwyczajem ludowym: czym jest sól czwartkowa, jak należy ją rozumieć i jakie miejsce zajmuje wobec najważniejszych treści Wielkiego Czwartku.",
+    "twitter_description": "Teologiczne namyślenie nad zwyczajem soli czwartkowej w świetle Pisma Świętego i Tradycji Kościoła."
+  },
+  "switcher": {
+    "label": "Język",
+    "aria_label": "Przełącznik języka"
+  },
+  "header": {
+    "ornament": "✦ ✦ ✦",
+    "title_html": "Poświęcenie soli w Wielki Czwartek<br><em>(sól czwartkowa)</em>",
+    "subtitle": "Teologiczne namyślenie nad zwyczajem ludowym"
+  },
+  "intro": "Dlaczego w Wielki Czwartek ludzie przynoszą sól? Co stoi za tym zwyczajem — kościelne ustanowienie czy żywa pamięć ludu? I jak należy do tego podchodzić?",
+  "toc": {
+    "title": "Spis treści",
+    "aria_label": "Spis treści"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "number": "I",
+      "toc": "Co stoi za tym zwyczajem",
+      "title": "Co stoi za tym zwyczajem",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Zwyczaj poświęcania soli w Wielki Czwartek nie jest typikonowym obrzędem liturgicznym. Nie został utrwalony w kręgu obowiązujących nabożeństw Kościoła i wiąże się przede wszystkim z ludowym przygotowaniem do Paschy. Historycy odnoszą jego pojawienie się do XII–XIII wieku."
+        },
+        {
+          "type": "p",
+          "html": "Już w XVI wieku był on tak rozpowszechniony, że Sobór Stu Rozdziałów z 1551 roku wspomina o nim i przestrzega przed zniekształceniami — zwłaszcza przed zwyczajem kładzenia soli pod prestołem. To wymowne: tradycja istniała, lecz domagała się teologicznego namysłu."
+        },
+        {
+          "type": "p",
+          "html": "Sól, o której mowa, przygotowywano zwykle w szczególny sposób — wyprażano ją w piecu, przez co ciemniała i nabierała innego smaku oraz zapachu. Trzeba jednak pamiętać: ani sposób przygotowania, ani wygląd zewnętrzny nie mają rozstrzygającego znaczenia duchowego. Zwróćmy się ku autentycznemu teologicznemu rozumieniu tej tradycji."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": "II",
+      "toc": "Sól w Piśmie Świętym",
+      "title": "Sól w Piśmie Świętym: obraz przymierza, mądrości i niezniszczalności",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Sól zajmuje w Piśmie Świętym miejsce szczególne. Nie jest przypadkowym przedmiotem codziennym, wybranym do obrzędu. Jest głębokim i konsekwentnym symbolem biblijnym."
+        },
+        {
+          "type": "sub",
+          "text": "Przymierze soli"
+        },
+        {
+          "type": "p",
+          "html": "W Starym Testamencie sól była znakiem nierozerwalnego przymierza między Bogiem a Izraelem: <cite>„Każdą ofiarę pokarmową posolisz solą i nie dopuścisz, by zabrakło soli przymierza twojego Boga”</cite> (Kpł 2,13). Tutaj sól jest symbolem wierności, stałości i trwałości relacji z Bogiem."
+        },
+        {
+          "type": "p",
+          "html": "Księga Liczb nazywa kapłaństwo Aarona <cite>„przymierzem soli”</cite> (Lb 18,19), a Druga Księga Kronik mówi o wieczystym związku Pana z domem Dawida w tych samych kategoriach (2 Krn 13,5). Sól staje się obrazem niezniszczalności, niezmienności i wierności danemu słowu."
+        },
+        {
+          "type": "sub",
+          "text": "„Wy jesteście solą ziemi”"
+        },
+        {
+          "type": "p",
+          "html": "W Kazaniu na Górze Pan Jezus Chrystus mówi do uczniów: <cite>„Wy jesteście solą ziemi. Lecz jeśli sól utraci swój smak, czymże ją posolić? Na nic się już nie przyda”</cite> (Mt 5,13). Jest to jedno z najbardziej pojemnych ewangelicznych określeń chrześcijańskiego powołania. Być solą znaczy chronić świat przed moralnym rozkładem, nadawać życiu sens i smak oraz przeciwstawiać się duchowemu obumarciu."
+        },
+        {
+          "type": "p",
+          "html": "Apostoł Paweł rozwija ten obraz: <cite>„Mowa wasza niech będzie zawsze uprzejma, zaprawiona solą, abyście wiedzieli, jak każdemu odpowiadać”</cite> (Kol 4,6). Sól jest tu obrazem mądrości pełnej łaski, ożywiającej każde słowo."
+        },
+        {
+          "type": "sub",
+          "text": "Uzdrowienie wód Jerycha"
+        },
+        {
+          "type": "p",
+          "html": "Do tego starotestamentowego wydarzenia wprost odwołuje się modlitwa na błogosławieństwo soli w Trebniku. Mieszkańcy Jerycha powiedzieli prorokowi Elizeuszowi: <cite>„Woda jest zła, a ziemia nieurodzajna”</cite> (4 Krl 2,19). Prorok kazał przynieść nową misę z solą, wrzucił ją do źródła i wypowiedział słowo Pana — i wody zostały uzdrowione."
+        },
+        {
+          "type": "p",
+          "html": "Ważne jest to, że cudu dokonała nie sama sól, lecz Słowo Boże wypowiedziane przez proroka. Sól stała się widzialnym narzędziem niewidzialnego działania Bożego. To rozróżnienie teologiczne ma charakter zasadniczy — i właśnie ono leży u podstaw prawosławnego rozumienia każdego poświęcenia."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "number": "III",
+      "toc": "Sól w praktyce wczesnochrześcijańskiej i tradycji świętych Ojców",
+      "title": "Sól w praktyce wczesnochrześcijańskiej i tradycji świętych Ojców",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Symbolika soli była w Kościele dobrze znana i rozwijana od najdawniejszych czasów. W praktyce starożytnego Kościoła wręczano sól tym, którzy przygotowywali się do Chrztu, jako znak przyjęcia do grona katechumenów."
+        },
+        {
+          "type": "quote",
+          "html": "„Uświęcenie przez sól oznacza konieczność poznania duchowego — jak sól nadaje potrawie ostrość i smak, tak rozum oświecony Słowem Bożym nadaje życiu sens i zachowuje je od zepsucia.”",
+          "author": "Święty Augustyn"
+        },
+        {
+          "type": "quote",
+          "html": "„Patrz, jak On podnosi ich godność, nazywając ich nie przyjmującymi sól, lecz samą solą. A cóż to znaczy? Że wasza nauka ma zachować ludzi, uśmiercić w nich zgniliznę grzechu... Jak sól nie pozwala psuć się mięsu, tak i wy macie powstrzymywać ludzi od zepsucia występku. Sól pali, ale ratuje.”",
+          "author": "Święty Jan Chryzostom. Homilie o Kazaniu na Górze"
+        },
+        {
+          "type": "quote",
+          "html": "„Sól jest obrazem niezniszczalności i mądrości. Jak ciało posypane solą nie podlega gniciu, tak i dusza ozdobiona mądrością Słowa Bożego nie poddaje się zepsuciu grzechu.”",
+          "author": "Święty Bazyli Wielki"
+        },
+        {
+          "type": "p",
+          "html": "Święty Cyryl Aleksandryjski widzi w soli obraz Ducha Świętego, który zachowuje Kościół w czystości i niezniszczalności, jak sól zachowuje naturę rzeczy od rozkładu. Wprowadza to sól w kontekst pneumatologiczny: poświęcenie jest zawsze działaniem Ducha, a nie magią materii."
+        },
+        {
+          "type": "quote",
+          "html": "„Ta, która obejrzała się wstecz, stała się nieruchomą solą. Nauka dla wszystkich: kto ogląda się za siebie, nie wejdzie do Królestwa Bożego.”",
+          "author": "Święty Efrem Syryjczyk"
+        },
+        {
+          "type": "p",
+          "html": "Święty sprawiedliwy Jan z Kronsztadu mówił już w nowszych czasach o znaczeniu przedmiotów poświęconych właśnie w ich modlitewnym kontekście: <cite>„Wszystko, co Kościół poświęca, jest wieścią o Bogu, przypomnieniem dla serca o Tym, który jest ponad wszelką materią.”</cite>"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "number": "IV",
+      "toc": "Teologiczny sens poświęcenia: modlitwa Trebnika",
+      "title": "Teologiczny sens poświęcenia: modlitwa Trebnika",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "W prawosławnym Trebniku znajduje się krótka modlitwa na błogosławieństwo soli. Nie jest ona związana wyłącznie z Wielkim Czwartkiem i nie ustanawia osobnego „obrzędu soli czwartkowej” — takiego obrzędu nie ma. Jest jednak ważna jako wyraz prawosławnego rozumienia poświęcenia w ogóle."
+        },
+        {
+          "type": "p",
+          "html": "Kościół modli się, aby sól stała się <cite>„ofiarą radości”</cite>, to znaczy by została przyjęta przez Boga jako dar człowieka i przyniosła duchowy pożytek tym, którzy będą jej używać. Poświęcenie rozumie się tutaj nie jako nadanie materii samodzielnej „mocy sakralnej”, lecz jako oddanie jej Bogu i modlitewne przyzywanie łaski dla tych, którzy będą ją przyjmować."
+        },
+        {
+          "type": "p",
+          "html": "To zasadnicze rozróżnienie teologiczne: to, co poświęcone, nie działa samo z siebie — istnieje <em>w odniesieniu do Boga</em> jako dar zwrócony ku Niemu i od Niego powracający z błogosławieństwem. Właśnie dlatego poświęcona sól może być używana z modlitwą i czcią — jako przypomnienie o Bogu, jako cichy znak Jego obecności w codziennym życiu. Ale nie jako amulet. Nie jako lekarstwo samo w sobie. Tym bardziej nie jako zastępstwo Sakramentów."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "number": "V",
+      "toc": "Wewnętrzna miara: głos Ojców",
+      "title": "Wewnętrzna miara: głos Ojców",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Święci Ojcowie jednomyślnie uczą zachowywać duchową miarę wobec wszelkich zewnętrznych form pobożności."
+        },
+        {
+          "type": "quote",
+          "html": "„Nie rzecz czyni nas czystymi, lecz intencja i życie.”",
+          "author": "Święty Jan Chryzostom"
+        },
+        {
+          "type": "quote",
+          "html": "„Prawdziwe uświęcenie jest działaniem łaski w sercu. Duch Święty jest jedynym prawdziwym uświęceniem człowieka.”",
+          "author": "Święty Makary Egipski"
+        },
+        {
+          "type": "quote",
+          "html": "„Wielu szuka uświęcenia w przedmiotach, bo wewnątrz są puści. Lecz Pan szuka nie rąk z solą, ale serca, w którym nie ma goryczy.”",
+          "author": "Święty Jan Klimak"
+        },
+        {
+          "type": "quote",
+          "html": "„Celem życia chrześcijańskiego jest zdobycie Ducha Świętego Bożego.”",
+          "author": "Święty Serafin z Sarowa"
+        },
+        {
+          "type": "p",
+          "html": "Słowa te nie odrzucają tradycji. Umieszczają ją na właściwym miejscu — służebnym, pomocniczym, prowadzącym ku temu, co większe."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "number": "VI",
+      "toc": "Wielki Czwartek w swojej pełni",
+      "title": "Wielki Czwartek w swojej pełni",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Nie można mówić o soli czwartkowej, nie powiedziawszy najpierw tego, co najważniejsze o samym dniu."
+        },
+        {
+          "type": "p",
+          "html": "Wielki Czwartek jest dniem Ostatniej Wieczerzy. Dniem, w którym Pan Jezus Chrystus, <cite>„umiłowawszy swoich na świecie, do końca ich umiłował”</cite> (J 13,1), połamał chleb i podał kielich, mówiąc: <cite>„To jest Ciało moje... to jest Krew moja”</cite> (Mt 26,26–28). Tego dnia została ustanowiona Eucharystia — źródło i szczyt całego życia Kościoła, samo centrum chrześcijańskiego istnienia."
+        },
+        {
+          "type": "p",
+          "html": "Tego samego dnia Pan umył nogi uczniom, ukazując obraz pokornej służby, który odtąd leży u podstaw wszelkiego prawdziwego pasterzowania i braterstwa: <cite>„Dałem wam przykład, abyście i wy czynili tak, jak Ja wam uczyniłem”</cite> (J 13,15)."
+        },
+        {
+          "type": "p",
+          "html": "Według tradycji, w Wielki Czwartek w soborach katedralnych dokonywano poświęcenia myra — widzialnego znaku niewidzialnego daru Ducha Świętego udzielanego w Sakramencie Bierzmowania."
+        },
+        {
+          "type": "p",
+          "html": "To wszystko jest nieporównanie większe niż jakikolwiek zwyczaj ludowy. Jeżeli tradycja soli czwartkowej prowadzi człowieka do świątyni, do modlitwy i do Kielicha, jest piękna i godna szacunku. Jeżeli jednak sól staje się celem samym w sobie, zastępując udział w Sakramentach, staje się duchową podróbką — i właśnie przed tym ostrzega nas Kościół."
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "number": "VII",
+      "toc": "Wezwanie: stać się solą ziemi",
+      "title": "Wezwanie: stać się solą ziemi",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Niech ta dawna tradycja, niosąca w sobie tyle obrazów biblijnych i ludowej pamięci o świętości, stanie się dla nas nie przystankiem, lecz krokiem."
+        },
+        {
+          "type": "p",
+          "html": "Krokiem do świątyni. Krokiem ku modlitwie. Krokiem ku Kielichowi."
+        },
+        {
+          "type": "p",
+          "html": "I starajmy się stać tą <cite>„solą ziemi”</cite>, o której mówi Pan — nie zewnętrznie obrzędową, lecz wewnętrznie prawdziwą: zachowującą w sobie wiarę nieskażoną grzechem, mądrość doprawioną Słowem Bożym i miłość, która nie pozwala światu wokół nas utracić smaku."
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "aria_label": "Zakończenie",
+    "symbol": "☩",
+    "lead": "Przyjdźmy do świątyni. Módlmy się. Przystąpmy do Komunii.",
+    "text": "I nieśmy sól — nie tylko w dłoniach, ale i w sercu.",
+    "final_html": "Pascha Pańska — oto nasza radość.<br>A każda tradycja jest święta o tyle, o ile prowadzi nas do Niego."
+  },
+  "footer": {
+    "name": "Biuletyn parafialny",
+    "context": "Wielki Czwartek"
+  }
+}

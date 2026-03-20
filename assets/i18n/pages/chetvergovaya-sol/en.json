@@ -1,0 +1,250 @@
+{
+  "locale": "en",
+  "meta": {
+    "title": "Blessing of Salt on Holy Thursday (Thursday Salt)",
+    "description": "Blessing of Salt on Holy Thursday (Thursday Salt). A theological reflection on a folk custom connected with Holy Thursday, salt, Holy Scripture, and Church tradition.",
+    "og_locale": "en_GB",
+    "site_name": "Parish Bulletin",
+    "og_description": "A theological reflection on a folk custom: what Thursday salt means, how it should be regarded, and what place it holds beside the central meanings of Holy Thursday.",
+    "twitter_description": "A theological reflection on the folk custom of Thursday salt in the light of Holy Scripture and Church tradition."
+  },
+  "switcher": {
+    "label": "Language",
+    "aria_label": "Language switcher"
+  },
+  "header": {
+    "ornament": "✦ ✦ ✦",
+    "title_html": "Blessing of Salt on Holy Thursday<br><em>(Thursday Salt)</em>",
+    "subtitle": "A theological reflection on a folk custom"
+  },
+  "intro": "Why do people bring salt on Holy Thursday? What stands behind this custom — a church ordinance or living folk memory? And how should it rightly be understood?",
+  "toc": {
+    "title": "Contents",
+    "aria_label": "Contents"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "number": "I",
+      "toc": "What stands behind this custom",
+      "title": "What stands behind this custom",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "The custom of blessing salt on Holy Thursday is not a liturgical rite prescribed by the Church’s rule. It is not fixed among the obligatory services of the Church and is connected above all with the people’s preparation for Pascha. Historians trace its emergence to the twelfth and thirteenth centuries."
+        },
+        {
+          "type": "p",
+          "html": "By the sixteenth century it was so widespread that the Stoglav Council of 1551 mentions it and warns against distortions — in particular, against the custom of placing salt beneath the altar table. This is telling: the tradition existed, but it required theological discernment."
+        },
+        {
+          "type": "p",
+          "html": "The salt in question was usually prepared in a special way — it was fired in an oven, which made it dark and gave it a different taste and smell. Yet it is important to remember that neither the method of preparation nor the outward appearance has decisive spiritual significance. Let us turn to the true theological understanding of this tradition."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": "II",
+      "toc": "Salt in Holy Scripture",
+      "title": "Salt in Holy Scripture: the image of covenant, wisdom, and incorruption",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Salt occupies a very special place in Holy Scripture. It is not a random household object chosen for a rite. It is a deep and coherent biblical symbol."
+        },
+        {
+          "type": "sub",
+          "text": "The covenant of salt"
+        },
+        {
+          "type": "p",
+          "html": "In the Old Testament salt was a sign of the unbreakable covenant between God and Israel: <cite>“Every grain offering of yours you shall season with salt; you shall not let the salt of the covenant of your God be lacking”</cite> (Lev. 2:13). Here salt signifies fidelity, constancy, and the preservation of communion with God."
+        },
+        {
+          "type": "p",
+          "html": "The Book of Numbers calls the priesthood of Aaron a <cite>“covenant of salt”</cite> (Num. 18:19), and Second Chronicles speaks of the Lord’s everlasting alliance with the house of David in the same terms (2 Chr. 13:5). Salt becomes an image of incorruption, steadfastness, and faithfulness to the word once given."
+        },
+        {
+          "type": "sub",
+          "text": "“You are the salt of the earth”"
+        },
+        {
+          "type": "p",
+          "html": "In the Sermon on the Mount the Lord Jesus Christ says to His disciples: <cite>“You are the salt of the earth; but if the salt loses its savour, how shall its saltiness be restored? It is no longer good for anything”</cite> (Matt. 5:13). This is one of the most concentrated evangelical definitions of the Christian vocation. To be salt means to preserve the world from moral decay, to give life meaning and savour, and to resist spiritual deadening."
+        },
+        {
+          "type": "p",
+          "html": "The Apostle Paul continues the image: <cite>“Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person”</cite> (Col. 4:6). Salt here is the image of grace-filled wisdom enlivening every word."
+        },
+        {
+          "type": "sub",
+          "text": "The healing of the waters of Jericho"
+        },
+        {
+          "type": "p",
+          "html": "The prayer for the blessing of salt in the Book of Needs directly rests on this Old Testament event. The inhabitants of Jericho said to the prophet Elisha: <cite>“The water is bad, and the land is unfruitful”</cite> (2 Kings 2:19). The prophet ordered a new bowl with salt to be brought, cast it into the spring, and spoke the word of the Lord — and the waters were healed."
+        },
+        {
+          "type": "p",
+          "html": "What matters here is this: the miracle was not worked by the salt itself, but by the Word of God spoken through the prophet. Salt became the visible instrument of an invisible divine action. This theological distinction is fundamental, and it lies at the heart of the Orthodox understanding of every blessing."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "number": "III",
+      "toc": "Salt in early Christian practice and the tradition of the Fathers",
+      "title": "Salt in early Christian practice and the tradition of the holy Fathers",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "The symbolism of salt was well known in the Church and developed from the earliest times. In the practice of the ancient Church, those preparing for Baptism were given salt as a sign of their admission among the catechumens."
+        },
+        {
+          "type": "quote",
+          "html": "“Sanctification by salt signifies the necessity of spiritual knowledge — as salt gives food sharpness and savour, so the mind enlightened by the Word of God gives life meaning and preserves it from corruption.”",
+          "author": "Blessed Augustine"
+        },
+        {
+          "type": "quote",
+          "html": "“See how He raises their dignity, calling them not receivers of salt but the salt itself. And what does this mean? That your teaching must preserve men, put to death within them the rot of sin... As salt does not allow flesh to decay, so you must restrain men from the corruption of vice. Salt burns, but it saves.”",
+          "author": "Saint John Chrysostom. Homilies on the Sermon on the Mount"
+        },
+        {
+          "type": "quote",
+          "html": "“Salt is an image of incorruption and wisdom. As a body sprinkled with salt does not undergo decay, so the soul adorned with the wisdom of the Word of God does not yield to the corruption of sin.”",
+          "author": "Saint Basil the Great"
+        },
+        {
+          "type": "p",
+          "html": "Saint Cyril of Alexandria sees in salt an image of the Holy Spirit, who keeps the Church in purity and incorruption just as salt preserves the nature of a thing from decay. This places salt within a pneumatological context: sanctification is always the work of the Spirit, not the magic of matter."
+        },
+        {
+          "type": "quote",
+          "html": "“She who turned back became motionless salt. A lesson for all: whoever looks back will not enter the Kingdom of God.”",
+          "author": "Saint Ephrem the Syrian"
+        },
+        {
+          "type": "p",
+          "html": "Saint John of Kronstadt, in more recent times, spoke of the importance of sanctified things precisely in their prayerful context: <cite>“Everything blessed by the Church is a message about God, a reminder to the heart of Him who is above every material thing.”</cite>"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "number": "IV",
+      "toc": "The theological meaning of blessing: the prayer of the Book of Needs",
+      "title": "The theological meaning of blessing: the prayer of the Book of Needs",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "In the Orthodox Book of Needs there is a brief prayer for the blessing of salt. It is not attached specifically to Holy Thursday and does not establish a special “rite of Thursday salt” — such a rite does not exist. Yet it is important as an expression of the Orthodox understanding of blessing in general."
+        },
+        {
+          "type": "p",
+          "html": "The Church prays that the salt may become a <cite>“sacrifice of rejoicing”</cite>, that is, that it may be received by God as a human offering and bring spiritual benefit to those who use it. Blessing here is understood not as endowing matter with an independent “sacral power,” but as dedicating it to God and invoking grace upon those who will partake of it."
+        },
+        {
+          "type": "p",
+          "html": "This is the crucial theological distinction: what is blessed does not act by itself — it exists <em>in relation to God</em>, as a gift turned toward Him and returned from Him with blessing. That is why blessed salt may be used with prayer and reverence — as a reminder of God, as a quiet sign of His presence in everyday life. But not as an amulet. Not as a medicine in itself. And certainly not as a substitute for the Sacraments."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "number": "V",
+      "toc": "Inner measure: the voice of the Fathers",
+      "title": "Inner measure: the voice of the Fathers",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "The holy Fathers unanimously teach us to preserve spiritual measure in relation to every outward form of piety."
+        },
+        {
+          "type": "quote",
+          "html": "“It is not a thing that makes us pure, but intention and life.”",
+          "author": "Saint John Chrysostom"
+        },
+        {
+          "type": "quote",
+          "html": "“True sanctification is the action of grace within the heart. The Holy Spirit is the only true sanctification of man.”",
+          "author": "Saint Macarius of Egypt"
+        },
+        {
+          "type": "quote",
+          "html": "“Many seek sanctification in objects, because within them there is emptiness. But the Lord seeks not hands holding salt, but a heart in which there is no bitterness.”",
+          "author": "Saint John Climacus"
+        },
+        {
+          "type": "quote",
+          "html": "“The aim of the Christian life is the acquisition of the Holy Spirit of God.”",
+          "author": "Saint Seraphim of Sarov"
+        },
+        {
+          "type": "p",
+          "html": "These words do not reject the tradition. They place it in its proper position — ministerial, auxiliary, and leading toward what is greater."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "number": "VI",
+      "toc": "Holy Thursday in its fullness",
+      "title": "Holy Thursday in its fullness",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "One cannot speak of Thursday salt without first speaking of the day itself."
+        },
+        {
+          "type": "p",
+          "html": "Holy Thursday is the day of the Mystical Supper. It is the day when the Lord Jesus Christ, <cite>“having loved His own who were in the world, loved them to the end”</cite> (John 13:1), broke bread and gave the cup, saying: <cite>“This is My Body... this is My Blood”</cite> (Matt. 26:26–28). On this day the Eucharist was instituted — the source and summit of the whole life of the Church, the very centre of Christian being."
+        },
+        {
+          "type": "p",
+          "html": "On that same day the Lord washed the feet of His disciples, revealing the image of humble service that henceforth lies at the heart of all true pastoral ministry and brotherhood: <cite>“I have given you an example, that you also should do as I have done to you”</cite> (John 13:15)."
+        },
+        {
+          "type": "p",
+          "html": "According to tradition, Holy Thursday in cathedral churches was also the day of the consecration of chrism — the visible sign of the invisible gift of the Holy Spirit bestowed in the Sacrament of Chrismation."
+        },
+        {
+          "type": "p",
+          "html": "All this is incomparably greater than any folk custom. If the tradition of Thursday salt leads a person to church, to prayer, and to the Chalice, it is beautiful and worthy of respect. But if salt becomes an end in itself, replacing participation in the Sacraments, then it becomes a spiritual counterfeit — and it is precisely against this that the Church warns us."
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "number": "VII",
+      "toc": "A call to become the salt of the earth",
+      "title": "A call to become the salt of the earth",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "May this ancient tradition, bearing within itself so many biblical images and so much popular memory of the holy, become for us not a stopping place but a step."
+        },
+        {
+          "type": "p",
+          "html": "A step into the church. A step toward prayer. A step toward the Chalice."
+        },
+        {
+          "type": "p",
+          "html": "And let us strive to become that <cite>“salt of the earth”</cite> of which the Lord speaks — not outwardly ritual, but inwardly true: preserving within ourselves a faith uncorrupted by sin, a wisdom seasoned with the Word of God, and a love that does not let the world around us lose its savour."
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "aria_label": "Closing",
+    "symbol": "☩",
+    "lead": "Let us come to church. Let us pray. Let us receive Holy Communion.",
+    "text": "And let us bear salt not only in our hands, but in our hearts.",
+    "final_html": "The Pascha of the Lord — that is our joy.<br>And every tradition is holy only insofar as it leads us to Him."
+  },
+  "footer": {
+    "name": "Parish Bulletin",
+    "context": "Holy Thursday"
+  }
+}

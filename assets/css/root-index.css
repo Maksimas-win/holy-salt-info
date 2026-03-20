@@ -1,0 +1,89 @@
+body.gateway-page {
+  min-height: 100vh;
+}
+
+.gateway-shell {
+  min-height: 100vh;
+  display: grid;
+  align-content: start;
+}
+
+.gateway-hero {
+  min-height: auto;
+  display: grid;
+  place-items: start center;
+  padding: clamp(2.5rem, 5vw, 4.5rem) 0 clamp(2rem, 4vw, 3.5rem);
+}
+
+.gateway-panel {
+  width: min(100% - 2rem, 48rem);
+}
+
+.gateway-title {
+  max-width: 14ch;
+  font-size: clamp(2rem, 4.35vw, 3.1rem);
+  padding: 0.5rem 1.35rem 0.85rem;
+}
+
+.gateway-title em {
+  margin-top: 0.45rem;
+  padding: 0.18rem 1.15rem 0.28rem;
+  font-size: 0.8em;
+  letter-spacing: 0.045em;
+  white-space: normal;
+  max-width: 100%;
+}
+
+.gateway-subtitle {
+  max-width: 30rem;
+  margin-top: 1.3rem;
+  padding-top: 1.05rem;
+  font-size: 1rem;
+}
+
+.gateway-switcher {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.gateway-copy {
+  width: min(100% - 2rem, 34rem);
+  margin: -0.6rem auto 3rem;
+  padding: 0 1rem;
+}
+
+.gateway-copy p {
+  text-align: center;
+  margin: 0;
+  font-size: 1.08rem;
+  font-style: italic;
+  color: rgba(76, 52, 35, 0.86);
+}
+
+@media (max-width: 37.5rem) {
+  .gateway-panel {
+    width: min(100% - 1rem, 44rem);
+  }
+
+  .gateway-hero {
+    padding-top: 1.75rem;
+    padding-bottom: 2rem;
+  }
+
+  .gateway-title {
+    max-width: 13ch;
+    font-size: clamp(1.85rem, 8vw, 2.45rem);
+    padding: 0.35rem 0.75rem 0.65rem;
+  }
+
+  .gateway-title em {
+    font-size: 0.74em;
+    padding-inline: 0.9rem;
+  }
+
+  .gateway-copy {
+    width: min(100% - 1rem, 25rem);
+    margin-top: -0.2rem;
+    padding: 0 0.5rem;
+  }
+}

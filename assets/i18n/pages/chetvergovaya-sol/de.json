@@ -1,0 +1,250 @@
+{
+  "locale": "de",
+  "meta": {
+    "title": "Salzweihe am Gründonnerstag (Donnerstagssalz)",
+    "description": "Salzweihe am Gründonnerstag (Donnerstagssalz). Eine theologische Deutung eines volkstümlichen Brauchs im Zusammenhang mit dem Gründonnerstag, dem Salz, der Heiligen Schrift und der kirchlichen Überlieferung.",
+    "og_locale": "de_DE",
+    "site_name": "Pfarrblatt",
+    "og_description": "Eine theologische Deutung eines volkstümlichen Brauchs: was Donnerstagssalz bedeutet, wie man es verstehen soll und welchen Platz es neben den zentralen Inhalten des Gründonnerstags einnimmt.",
+    "twitter_description": "Eine theologische Deutung des Brauchs des Donnerstagssalzes im Licht der Heiligen Schrift und der kirchlichen Überlieferung."
+  },
+  "switcher": {
+    "label": "Sprache",
+    "aria_label": "Sprachumschalter"
+  },
+  "header": {
+    "ornament": "✦ ✦ ✦",
+    "title_html": "Salzweihe am Gründonnerstag<br><em>(Donnerstagssalz)</em>",
+    "subtitle": "Eine theologische Deutung eines volkstümlichen Brauchs"
+  },
+  "intro": "Warum bringen die Menschen am Gründonnerstag Salz mit? Was steht hinter diesem Brauch — eine kirchliche Vorschrift oder lebendige Volkserinnerung? Und wie ist dazu recht zu stehen?",
+  "toc": {
+    "title": "Inhalt",
+    "aria_label": "Inhalt"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "number": "I",
+      "toc": "Was hinter diesem Brauch steht",
+      "title": "Was hinter diesem Brauch steht",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Der Brauch, am Gründonnerstag Salz zu segnen, ist kein im gottesdienstlichen Typikon festgelegter Ritus. Er gehört nicht zum Kreis der verpflichtenden kirchlichen Vollzüge und ist vor allem mit der volkstümlichen Vorbereitung auf Pascha verbunden. Historiker datieren seine Entstehung auf das 12. und 13. Jahrhundert."
+        },
+        {
+          "type": "p",
+          "html": "Schon im 16. Jahrhundert war er so verbreitet, dass die Synode von 1551 ihn erwähnt und vor Entstellungen warnt — insbesondere vor dem Brauch, Salz unter den Altar zu legen. Das ist bezeichnend: Die Tradition bestand, doch sie verlangte nach theologischer Klärung."
+        },
+        {
+          "type": "p",
+          "html": "Das Salz, um das es hier geht, wurde gewöhnlich auf besondere Weise bereitet — man glühte es im Ofen aus, wodurch es dunkel wurde und einen anderen Geschmack und Geruch annahm. Wichtig ist jedoch, sich zu erinnern: Weder die Art der Zubereitung noch das äußere Aussehen haben entscheidende geistliche Bedeutung. Wenden wir uns der eigentlichen theologischen Deutung dieser Tradition zu."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": "II",
+      "toc": "Das Salz in der Heiligen Schrift",
+      "title": "Das Salz in der Heiligen Schrift: Bild des Bundes, der Weisheit und der Unverweslichkeit",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Das Salz nimmt in der Heiligen Schrift einen ganz besonderen Platz ein. Es ist kein zufälliger Gebrauchsgegenstand, der einfach für einen Brauch ausgewählt wurde. Es ist ein tiefer und durchgängiger biblischer Symbolträger."
+        },
+        {
+          "type": "sub",
+          "text": "Der Bund des Salzes"
+        },
+        {
+          "type": "p",
+          "html": "Im Alten Testament war das Salz ein Zeichen des unauflöslichen Bundes zwischen Gott und Israel: <cite>„Alle deine Speisopfer sollst du mit Salz salzen; das Salz des Bundes deines Gottes darf deinem Opfer nicht fehlen“</cite> (Lev 2,13). Hier steht das Salz für Treue, Beständigkeit und die Bewahrung der Gemeinschaft mit Gott."
+        },
+        {
+          "type": "p",
+          "html": "Das Buch Numeri nennt das Priestertum Aarons einen <cite>„Bund des Salzes“</cite> (Num 18,19), und das Zweite Buch der Chronik spricht vom ewigen Bund des Herrn mit dem Haus David in denselben Begriffen (2 Chr 13,5). Das Salz wird so zum Bild der Unverweslichkeit, der Unveränderlichkeit und der Treue zum gegebenen Wort."
+        },
+        {
+          "type": "sub",
+          "text": "„Ihr seid das Salz der Erde“"
+        },
+        {
+          "type": "p",
+          "html": "In der Bergpredigt wendet sich der Herr Jesus Christus an seine Jünger: <cite>„Ihr seid das Salz der Erde. Wenn aber das Salz seine Kraft verliert, womit soll man es salzen? Es taugt zu nichts mehr“</cite> (Mt 5,13). Das ist eine der dichtesten evangelischen Bestimmungen der christlichen Berufung. Salz zu sein bedeutet, die Welt vor sittlichem Verfall zu bewahren, dem Leben Sinn und Geschmack zu geben und der geistlichen Erstarrung zu widerstehen."
+        },
+        {
+          "type": "p",
+          "html": "Der Apostel Paulus führt dieses Bild weiter: <cite>„Euer Wort sei allezeit in Gnade, mit Salz gewürzt, damit ihr wisst, wie ihr jedem antworten sollt“</cite> (Kol 4,6). Das Salz ist hier ein Bild der gnadenhaften Weisheit, die jedes Wort belebt."
+        },
+        {
+          "type": "sub",
+          "text": "Die Heilung der Wasser von Jericho"
+        },
+        {
+          "type": "p",
+          "html": "Auf dieses alttestamentliche Ereignis stützt sich unmittelbar das Gebet zur Segnung des Salzes im Euchologion. Die Bewohner Jerichos sagten zum Propheten Elischa: <cite>„Das Wasser ist schlecht, und das Land ist unfruchtbar“</cite> (2 Kön 2,19). Der Prophet ließ eine neue Schale mit Salz bringen, warf es in die Quelle und sprach das Wort des Herrn — und die Wasser wurden geheilt."
+        },
+        {
+          "type": "p",
+          "html": "Wichtig ist: Nicht das Salz selbst wirkte das Wunder, sondern das durch den Propheten gesprochene Wort Gottes. Das Salz wurde zum sichtbaren Werkzeug eines unsichtbaren göttlichen Handelns. Diese theologische Unterscheidung ist grundlegend — und genau sie liegt dem orthodoxen Verständnis jeder Segnung zugrunde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "number": "III",
+      "toc": "Das Salz in der frühchristlichen Praxis und der Überlieferung der Väter",
+      "title": "Das Salz in der frühchristlichen Praxis und der Überlieferung der heiligen Väter",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Die Symbolik des Salzes war der Kirche seit ihren frühesten Zeiten wohlbekannt und wurde weiter entfaltet. In der Praxis der alten Kirche wurde den Taufbewerbern Salz gereicht als Zeichen ihrer Aufnahme unter die Katechumenen."
+        },
+        {
+          "type": "quote",
+          "html": "„Die Heiligung durch Salz bedeutet die Notwendigkeit geistlicher Erkenntnis — wie das Salz der Speise Schärfe und Geschmack verleiht, so verleiht der vom Wort Gottes erleuchtete Verstand dem Leben Sinn und bewahrt es vor dem Verderben.“",
+          "author": "Der selige Augustinus"
+        },
+        {
+          "type": "quote",
+          "html": "„Sieh, wie Er ihre Würde erhöht, indem Er sie nicht Empfänger des Salzes, sondern das Salz selbst nennt. Und was bedeutet das? Dass eure Lehre die Menschen bewahren, die Fäulnis der Sünde in ihnen abtöten soll... Wie das Salz das Fleisch nicht verfaulen lässt, so sollt auch ihr die Menschen vom Verderben des Lasters zurückhalten. Das Salz brennt, aber es rettet.“",
+          "author": "Der heilige Johannes Chrysostomos. Homilien zur Bergpredigt"
+        },
+        {
+          "type": "quote",
+          "html": "„Das Salz ist ein Bild der Unverweslichkeit und der Weisheit. Wie ein mit Salz bestreuter Leib nicht der Verwesung verfällt, so gibt sich auch die mit der Weisheit des Wortes Gottes geschmückte Seele nicht dem Verderben der Sünde hin.“",
+          "author": "Der heilige Basilius der Große"
+        },
+        {
+          "type": "p",
+          "html": "Der heilige Kyrill von Alexandrien sieht im Salz ein Bild des Heiligen Geistes, der die Kirche in Reinheit und Unverweslichkeit bewahrt, so wie das Salz die Natur einer Sache vor der Auflösung schützt. Dadurch wird das Salz in einen pneumatologischen Zusammenhang gestellt: Heiligung ist immer das Werk des Geistes und nicht die Magie der Materie."
+        },
+        {
+          "type": "quote",
+          "html": "„Sie, die sich zurückwandte, wurde zu regungslosem Salz. Eine Lehre für alle: Wer sich zurückwendet, wird nicht in das Reich Gottes eingehen.“",
+          "author": "Der heilige Ephraim der Syrer"
+        },
+        {
+          "type": "p",
+          "html": "Der heilige gerechte Johannes von Kronstadt sprach in neuerer Zeit von der Bedeutung gesegneter Dinge gerade in ihrem Gebetszusammenhang: <cite>„Alles, was die Kirche heiligt, ist eine Botschaft von Gott, eine Erinnerung für das Herz an Den, der über aller Materie steht.“</cite>"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "number": "IV",
+      "toc": "Die theologische Bedeutung der Segnung: das Gebet des Euchologions",
+      "title": "Die theologische Bedeutung der Segnung: das Gebet des Euchologions",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Im orthodoxen Euchologion gibt es ein kurzes Gebet zur Segnung des Salzes. Es ist nicht eigens an den Gründonnerstag gebunden und legt keinen besonderen „Ritus des Donnerstagssalzes“ fest — einen solchen Ritus gibt es nicht. Dennoch ist es bedeutsam als Ausdruck des orthodoxen Verständnisses von Segnung überhaupt."
+        },
+        {
+          "type": "p",
+          "html": "Die Kirche bittet darum, dass das Salz zu einem <cite>„Opfer der Freude“</cite> werde, das heißt von Gott als Darbringung des Menschen angenommen werde und denen, die es gebrauchen, geistlichen Nutzen bringe. Segnung wird hier nicht als Verleihung einer eigenständigen „sakralen Kraft“ an die Materie verstanden, sondern als ihre Hingabe an Gott und als gebetliche Anrufung der Gnade für jene, die sie empfangen."
+        },
+        {
+          "type": "p",
+          "html": "Das ist die entscheidende theologische Unterscheidung: Das Gesegnete wirkt nicht aus sich selbst — es existiert <em>in Beziehung zu Gott</em>, als Gabe, die auf Ihn hingeordnet und von Ihm mit Segen zurückgegeben ist. Darum kann gesegnetes Salz mit Gebet und Ehrfurcht gebraucht werden — als Erinnerung an Gott, als leises Zeichen seiner Gegenwart im Alltag. Aber nicht als Amulett. Nicht als Heilmittel an sich. Und erst recht nicht als Ersatz für die Sakramente."
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "number": "V",
+      "toc": "Innere Maßhaltung: die Stimme der Väter",
+      "title": "Innere Maßhaltung: die Stimme der Väter",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Die heiligen Väter lehren einmütig, in allen äußeren Formen der Frömmigkeit das geistliche Maß zu bewahren."
+        },
+        {
+          "type": "quote",
+          "html": "„Nicht die Sache macht uns rein, sondern die Absicht und das Leben.“",
+          "author": "Der heilige Johannes Chrysostomos"
+        },
+        {
+          "type": "quote",
+          "html": "„Die wahre Heiligung ist das Wirken der Gnade im Herzen. Der Heilige Geist ist die einzige wahre Heiligung des Menschen.“",
+          "author": "Der heilige Makarios von Ägypten"
+        },
+        {
+          "type": "quote",
+          "html": "„Viele suchen die Heiligung in Dingen, weil es in ihnen selbst leer ist. Der Herr aber sucht nicht Hände mit Salz, sondern ein Herz, in dem keine Bitterkeit ist.“",
+          "author": "Der heilige Johannes Klimakos"
+        },
+        {
+          "type": "quote",
+          "html": "„Das Ziel des christlichen Lebens ist die Erwerbung des Heiligen Geistes Gottes.“",
+          "author": "Der heilige Seraphim von Sarow"
+        },
+        {
+          "type": "p",
+          "html": "Diese Worte verwerfen die Tradition nicht. Sie stellen sie an ihren rechten Ort — dienend, unterstützend und auf das Größere hinführend."
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "number": "VI",
+      "toc": "Der Gründonnerstag in seiner Fülle",
+      "title": "Der Gründonnerstag in seiner Fülle",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Man kann vom Donnerstagssalz nicht sprechen, ohne das Wichtigste über den Tag selbst zu sagen."
+        },
+        {
+          "type": "p",
+          "html": "Der Gründonnerstag ist der Tag des Mystischen Abendmahls. Es ist der Tag, an dem der Herr Jesus Christus, <cite>„da Er die Seinen liebte, die in der Welt waren, sie bis ans Ende liebte“</cite> (Joh 13,1), das Brot brach und den Kelch reichte: <cite>„Das ist mein Leib... das ist mein Blut“</cite> (Mt 26,26–28). An diesem Tag wurde die Eucharistie eingesetzt — Quelle und Gipfel des ganzen kirchlichen Lebens, die Mitte des christlichen Daseins."
+        },
+        {
+          "type": "p",
+          "html": "An demselben Tag wusch der Herr seinen Jüngern die Füße und zeigte damit das Bild des demütigen Dienens, das seither jeder echten Hirtensorge und Brüderlichkeit zugrunde liegt: <cite>„Ich habe euch ein Beispiel gegeben, damit auch ihr so handelt, wie ich an euch gehandelt habe“</cite> (Joh 13,15)."
+        },
+        {
+          "type": "p",
+          "html": "Nach der Überlieferung wurde am Gründonnerstag in den Kathedralkirchen auch das Myron geweiht — das sichtbare Zeichen der unsichtbaren Gabe des Heiligen Geistes, die im Sakrament der Chrismation mitgeteilt wird."
+        },
+        {
+          "type": "p",
+          "html": "All dies ist unvergleichlich größer als irgendein volkstümlicher Brauch. Wenn die Tradition des Donnerstagssalzes den Menschen in die Kirche, zum Gebet und zum Kelch führt, ist sie schön und ehrwürdig. Wenn das Salz aber zum Selbstzweck wird und die Teilnahme an den Sakramenten ersetzt, dann ist das eine geistliche Verfälschung — und gerade davor warnt die Kirche."
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "number": "VII",
+      "toc": "Ein Ruf, Salz der Erde zu werden",
+      "title": "Ein Ruf, Salz der Erde zu werden",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Möge diese alte Tradition, die so viele biblische Bilder und so viel Volksgedächtnis an das Heilige in sich trägt, für uns nicht zum Halt, sondern zum Schritt werden."
+        },
+        {
+          "type": "p",
+          "html": "Ein Schritt in die Kirche. Ein Schritt zum Gebet. Ein Schritt zum Kelch."
+        },
+        {
+          "type": "p",
+          "html": "Und bemühen wir uns, jenes <cite>„Salz der Erde“</cite> zu werden, von dem der Herr spricht — nicht äußerlich rituell, sondern innerlich wahrhaftig: indem wir in uns den vom Bösen unverdorbenen Glauben bewahren, die mit dem Wort Gottes gewürzte Weisheit und die Liebe, die die Welt um uns ihren Geschmack nicht verlieren lässt."
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "aria_label": "Schluss",
+    "symbol": "☩",
+    "lead": "Kommen wir in die Kirche. Beten wir. Empfangen wir die heilige Kommunion.",
+    "text": "Und tragen wir das Salz — nicht nur in den Händen, sondern auch im Herzen.",
+    "final_html": "Das Pascha des Herrn — das ist unsere Freude.<br>Und jede Tradition ist nur insofern heilig, als sie uns zu Ihm führt."
+  },
+  "footer": {
+    "name": "Pfarrblatt",
+    "context": "Gründonnerstag"
+  }
+}

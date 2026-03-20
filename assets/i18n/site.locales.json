@@ -1,0 +1,35 @@
+{
+  "defaultLocale": "ru",
+  "locales": [
+    {
+      "code": "ru",
+      "short": "RU",
+      "nativeName": "Русский",
+      "englishName": "Russian"
+    },
+    {
+      "code": "lt",
+      "short": "LT",
+      "nativeName": "Lietuvių",
+      "englishName": "Lithuanian"
+    },
+    {
+      "code": "en",
+      "short": "EN",
+      "nativeName": "English",
+      "englishName": "English"
+    },
+    {
+      "code": "pl",
+      "short": "PL",
+      "nativeName": "Polski",
+      "englishName": "Polish"
+    },
+    {
+      "code": "de",
+      "short": "DE",
+      "nativeName": "Deutsch",
+      "englishName": "German"
+    }
+  ]
+}

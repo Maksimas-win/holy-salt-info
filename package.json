@@ -1,0 +1,8 @@
+{
+  "name": "orthodox-static-i18n",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:i18n": "node scripts/build-chetvergovaya-sol.js"
+  }
+}
