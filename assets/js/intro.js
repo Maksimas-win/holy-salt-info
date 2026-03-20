@@ -121,9 +121,7 @@
     _textEl = document.createElement('p');
     _textEl.className = 'bh-intro__text';
     _textEl.innerHTML =
-      '<span class="bh-t-proto">www.</span>' +
-      '<span class="bh-t-main">bukiski-hram</span>' +
-      '<span class="bh-t-tld">.net</span>';
+      '<span class="bh-t-main">Соль мира сего</span>';
 
     _lineEl = document.createElement('span');
     _lineEl.className = 'bh-intro__line';
