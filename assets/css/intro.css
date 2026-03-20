@@ -186,7 +186,7 @@ html.bh-intro-active {
   font-size: 0.50em;
   font-weight: 400;
   letter-spacing: 0.26em;
-  opacity: 0.68;
+  opacity: 1;
   vertical-align: 0.14em;
 }
 
@@ -201,7 +201,7 @@ html.bh-intro-active {
   font-size: 0.48em;
   font-weight: 400;
   letter-spacing: 0.22em;
-  opacity: 0.62;
+  opacity: 1;
   vertical-align: 0.14em;
 }
 
